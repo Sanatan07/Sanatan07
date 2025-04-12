@@ -10,7 +10,7 @@ If you're into development, security, and the occasional coffee-fueled all-night
 
 Experience the magic (or chaos) of my portfolio:
 
-🔗 **[anishk-portfolio.vercel.app](https://anishk-portfolio.vercel.app/)**  
+🔗 **[anishk-portfolio.vercel.app]()**  
 ![Vercel](https://img.shields.io/badge/Deployed-Vercel-000?logo=vercel&logoColor=white)
 
 ---
@@ -27,7 +27,7 @@ I create Secure Full Stack WebApps, perform pentesting on webapps, api and mobil
 
 ## 🛠️ Skills & Tools
 
-**Operating System:** Windows Server, Kali Linux, Ununtu
+**Operating System:** Windows Server, Kali Linux, Ubuntu
 **Languages:** JS, Nodejs, Python, C, C++, SQL
 **Frontend:** React, Next, Vite
 **Database:** MySQL, MongoDB
@@ -48,6 +48,6 @@ I create Secure Full Stack WebApps, perform pentesting on webapps, api and mobil
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/sanatanbramhane/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanatan.bramhane@outlook.com) 
 
-P.S. If I don’t reply, I’m probably Huntung Bugs.
+P.S. If I don’t reply, I’m probably Hunting Bugs.
 
 ---
