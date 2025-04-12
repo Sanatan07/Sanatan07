@@ -6,6 +6,9 @@ If you're into development, security, and the occasional coffee-fueled all-night
 
 ---
 
+# 📊 GitHub Stats:
+![](https://nirzak-streak-stats.vercel.app/?user=Sanatan07&theme=dark&hide_border=false)<br/>
+
 ## 🚀 Live Demo
 
 Experience the magic (or chaos) of my portfolio:
