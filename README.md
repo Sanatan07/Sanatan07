@@ -37,7 +37,7 @@ I create Secure Full Stack WebApps, perform pentesting on webapps, api and mobil
 **Penetration Testing:** Network, Web, API, Mobile
 **Tools:** Wireshark, Mitre Framework, OSINT Framework, Burpsuite, Metasploit, Nmap, Owasp Zap, OpenVAS, Postman, Sonarqube
 **Containerization:** Docker, Kubernetes
-**Deployment:** AWS (IAM, EC2, S3, Amplify, Lambda), Vercel
+**Deployment:** AWS (IAM, EC2, S3, Amplify, Lambda), Vercel.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanatan07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=php)
 ---
