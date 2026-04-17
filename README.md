@@ -64,7 +64,7 @@
   </tr>
   <tr>
     <td>🎓 <b>Education</b></td>
-    <td>B.E. Computer Engineering · PG Diploma in Cyber Security & Forensics (CDAC)</td>
+    <td>B.E. Mechanical Engineering · PG Diploma in Cyber Security & Forensics (CDAC)</td>
   </tr>
   <tr>
     <td>💡 <b>Fun Fact</b></td>
