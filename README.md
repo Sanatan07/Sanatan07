@@ -78,39 +78,56 @@
 
 <div align="center">
 
-### 🎨 Frontend
+### 🎨 Frontend & UI
 ![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-443E3E?style=for-the-badge&logo=react&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### ⚙️ Backend
+### ⚙️ Backend & Runtime
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### 🗄️ Database
+### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### ☁️ Cloud & DevOps
+### ☁️ Cloud, DevOps & Containers
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-239120?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### 🔐 Security & Tools
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+### 🖥️ Operating Systems
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+### 🔐 Cybersecurity & Pentesting Tools
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Burpsuite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=linux&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-FF0000?style=for-the-badge&logo=linux&logoColor=white)
+![Hping3](https://img.shields.io/badge/Hping3-333333?style=for-the-badge&logo=linux&logoColor=white)
+![SQL Map](https://img.shields.io/badge/SQLMap-CC2927?style=for-the-badge&logo=mysql&logoColor=white)
+![APK Tool](https://img.shields.io/badge/APK_Tool-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![MobSF](https://img.shields.io/badge/MobSF-6DB33F?style=for-the-badge&logo=android&logoColor=white)
+![Frida](https://img.shields.io/badge/Frida-FF69B4?style=for-the-badge&logo=linux&logoColor=white)
+![John The Ripper](https://img.shields.io/badge/John_The_Ripper-8B0000?style=for-the-badge&logo=linux&logoColor=white)
+
+### 🧰 Dev Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=linux&logoColor=white)
 
 </div>
 
@@ -147,9 +164,32 @@
 
 </details>
 
----
+<details>
+<summary><b>🛡️ Cyber Security Engineer Intern — Cyient &nbsp;|&nbsp; Jul 2024 – Oct 2024</b></summary>
 
-## 🚀 Featured Projects
+<br/>
+
+- 📋 Assisted in creating a **secure coding checklist for a C++ application** to ensure compliance with best security practices
+- 🤖 Automated **Android OS patch identification** by extracting data from the Android Security Bulletin, reducing outdated OS usage risk by **25–30%**
+- 🔍 Developed a custom application integrating **Nmap**, executed LinEnum scripts remotely, and included network pentesting tools, boosting testing efficiency by **~15%**
+- 📡 Researched and presented a comprehensive report on **rail network security** aligned with IEC 62443 standards
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>🔓 Ethical Hacking Intern — Cyberdosti &nbsp;|&nbsp; May 2024 – Jul 2024</b></summary>
+
+<br/>
+
+- 🌐 Learned and practiced **web application & network penetration testing** methodologies
+- 💻 Applied pentesting skills on vulnerable environments like **Metasploit's Metasploitable 2**
+- 🔎 Conducted hands-on testing with industry-standard tools including Burpsuite, Nmap, and Hydra
+
+</details>
+
+<br/>
 
 <div align="center">
 
