@@ -37,24 +37,40 @@
 
 ## 👨‍💻 About Me
 
-```javascript
-const sanatan = {
-  location: "📍 Pune, Maharashtra, India",
-  role: "Full Stack Engineer (MERN Stack)",
-  currentlyAt: "Yash Computers",
-  education: [
-    "B.E. — Indira College of Engineering & Management, Pune (CGPA: 7.91)",
-    "PG Diploma — Cyber Security & Forensics, CDAC Thiruvananthapuram"
-  ],
-  strengths: [
-    "Building scalable REST APIs with OWASP security practices",
-    "Cloud deployments on AWS (EC2, Lambda, S3)",
-    "Real-time applications using Socket.io",
-    "Security-aware development & automation"
-  ],
-  funFact: "I blend software engineering with cybersecurity — because secure apps > just working apps 🔐"
-};
-```
+<table>
+  <tr>
+    <td>🌍 <b>Location</b></td>
+    <td>Pune, Maharashtra, India</td>
+  </tr>
+  <tr>
+    <td>💼 <b>Current Role</b></td>
+    <td>Software Developer @ Yash Computers</td>
+  </tr>
+  <tr>
+    <td>🎯 <b>Specialization</b></td>
+    <td>Full Stack MERN Development</td>
+  </tr>
+  <tr>
+    <td>🔐 <b>Superpower</b></td>
+    <td>Security-aware engineering — OWASP, JWT, secure REST APIs</td>
+  </tr>
+  <tr>
+    <td>☁️ <b>Cloud</b></td>
+    <td>AWS (EC2, Lambda, S3) — deployed production apps</td>
+  </tr>
+  <tr>
+    <td>⚡ <b>Real-time</b></td>
+    <td>Socket.io — bi-directional, event-driven applications</td>
+  </tr>
+  <tr>
+    <td>🎓 <b>Education</b></td>
+    <td>B.E. Computer Engineering · PG Diploma in Cyber Security & Forensics (CDAC)</td>
+  </tr>
+  <tr>
+    <td>💡 <b>Fun Fact</b></td>
+    <td>I blend software engineering with cybersecurity — because secure apps > just working apps 🔐</td>
+  </tr>
+</table>
 
 ---
 
