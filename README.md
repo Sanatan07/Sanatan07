@@ -235,7 +235,7 @@
 ## 🎓 Education & Certifications
 
 ```
-🎓  B.E. in Computer Engineering
+🎓  B.E. in Mechanical Engineering
     Indira College of Engineering & Management, Pune
     Graduation: April 2023 | CGPA: 7.91 / 10
 
